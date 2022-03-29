@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+}
+
+.logo{
+  display: flex;
+  width: 300px;
+  padding-top: 100px;
+  justify-content: center;
+  margin: 0 0 10% 45% ;
+}
+
