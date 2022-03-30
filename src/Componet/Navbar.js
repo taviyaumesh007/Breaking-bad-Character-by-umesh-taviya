@@ -1,8 +1,8 @@
 import React from 'react'
 import Images from './Images'
-import PropTypes from 'prop-types'
 
-export default function Navbar(props) {
+
+export default function Navbar() {
     return (
         <>
             <nav>
